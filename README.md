@@ -22,8 +22,8 @@ brasileiros a partir de dados reais do Ministério do Trabalho.
 - `output/presentation/` → Slides gerados
 
 ## Fonte dos Dados
-RAIS - Ministério do Trabalho e Emprego
-https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/estatisticas-trabalho/rais
+Arquivo de dados simulando o RAIS - Ministério do Trabalho e Emprego
+
 
 ## Como Executar
 1. Clone o repositório
